@@ -1,2 +1,2 @@
 # problem-solving
-Problem solving solutions and implementation from various platforms
+Solutions to questions from various online competitive programming platforms. Also find the implementation of various algorithms.
